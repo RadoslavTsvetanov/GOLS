@@ -1,0 +1,14 @@
+{
+    "icons": {
+        ".rs": "🦀",
+        ".go": "🐹",
+        ".exe": "g",
+        ".out": "g",
+        ".c": "🅒",
+        "folder": "📁"
+      },
+      "colors": {
+        ".exe": "fgHiRed",   
+        ".out": "fgHiYellow" 
+      }
+}
